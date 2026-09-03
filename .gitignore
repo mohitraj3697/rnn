@@ -1,0 +1,14 @@
+# Ignore CSV files as requested
+*.csv
+
+# Python / Jupyter temporary files and directories
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
